@@ -1,0 +1,27 @@
+{
+  "name": "anticss",
+  "version": "0.0.1",
+  "description": "If atomic classes and css-modules had a baby. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anticss/anticss.git"
+  },
+  "keywords": [
+    "atomic",
+    "css",
+    "css-modules"
+  ],
+  "author": "Zephraph <zephraph@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anticss/anticss/issues"
+  },
+  "homepage": "https://github.com/anticss/anticss#readme",
+  "dependencies": {
+    "postcss": "^6.0.14"
+  }
+}
